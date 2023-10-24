@@ -12,15 +12,15 @@ beli yang disajikan dalam bentuk website.
 
 ## 1.3. Branding
 
--Merk: SeventyOne MX
--Tagline: Ride in Style, Wear with Pride.
--Campaign: Memberikan kemudahan kepada pengguna dalam belanja yang bisa dilakukan dan di akses dimanapun dan kapanpun secara online.
--Target user:
->Usia 12+
->Seorang yang suka berbelanja seputar motor
->Seorang yang hobi otomotif seperti motocross
->Seorang yang suka memodifikasi motornya
->Seorang yang ingin belanja dengan mudah
+- Merk: SeventyOne MX
+- Tagline: Ride in Style, Wear with Pride.
+- Campaign: Memberikan kemudahan kepada pengguna dalam belanja yang bisa dilakukan dan di akses dimanapun dan kapanpun secara online.
+- Target user:
+- Usia 12+
+- Seorang yang suka berbelanja seputar motor
+- Seorang yang hobi otomotif seperti motocross
+- Seorang yang suka memodifikasi motornya
+- Seorang yang ingin belanja dengan mudah
 
 ## 2. User Story
 
@@ -38,14 +38,21 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
-
+```mermaid
 flowchart TD
-    Database: PostgreSQL --> Aplikasi Web Backend: javascript --> Web Server: javascript
+    id1[(Database: PostgreSQL)] <--> id2[Aplikasi Web Backend: ] <--> id3[Web Server: ]  
+```
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
-
+- UI/UX Design : Figma
+- Web Server : 
+- Text Editor : VS Code
+- Browser : Chrome
+- Library : 
+- Framework : 
+- Database : PostgreSQL
+  
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
