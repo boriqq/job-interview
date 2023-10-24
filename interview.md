@@ -7,7 +7,8 @@ membeli dengan mudah. Saya membuat brand dan website ini karena hobi saya dalam 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Website SeventyOne MX ini dibuat untuk menjual sebuah barang secara online, di dalamnya terdapat parts dan accessories motocross yang dijual secara online agar pengguna dapat dengan mudah membeli barang dimanapun dan kapanpun. Bertujuan untuk memudahkan kegiatan jual 
+beli yang disajikan dalam bentuk website.
 
 ## 1.3. Branding
 
@@ -23,23 +24,23 @@ bla bla bla
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Bisa melakukan | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
-
+Pengguna | Membeli produk | Bisa membeli produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
+Pengguna | Mencari produk | Bisa menncari produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
+Pengguna | Melihat produk | Bisa melihat gambar dan harga produk | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
-
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    Helm ||--o{ Barang : tersusun
+    PEMBELI ||--|{ Helm : beli
 ```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+flowchart TD
+    Database: PostgreSQL --> Aplikasi Web Backend: javascript --> Web Server: javascript
 
 ## 5. Teknologi, Library, dan Framework
 
