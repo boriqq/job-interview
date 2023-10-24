@@ -1,9 +1,9 @@
 ## 1.1 Latar Belakang
 
-Saya membuat website e-commerce sebuah brand yang bernama SeventyOne MX dimana pengguna dapat melihat dan membeli sebuah barang secara online.
-SeventyOne MX adalah sebuah brand yang menjual berbagai parts, apparel dan accesories motocross, di dalamnya terdapat macam-macam produk seputar
-motocross yang menawarkan pengguna untuk membeli barang tersebut melalui website yang bisa di akses dimanapun dan kapanpun sehingga pengguna dapat
-membeli dengan mudah. Saya membuat brand dan website ini karena hobi saya dalam bidang otomotif terutama motocross.
+SeventyOne MX adalah brand yang menjual berbagai produk seputar motor terutama motocross, yang menawarkan bermacam-macam parts,
+apparel, dan aksesoris motocross seperti: helm, sepatu, jersey, wheelset, stang, dan masih banyak lagi. Website ini menawarkan 
+kemudahan untuk belanja secara online terutama untuk para penggemar otomotif khususnya di bidang motocross. Website ini bertujuan
+untuk memberikan kemudahan dalam kegiatan jual beli yang bisa dilakukan dimanapun dan kapanpun.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -27,7 +27,7 @@ beli yang disajikan dalam bentuk website.
 Sebagai | Bisa melakukan | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | Membeli produk | Bisa membeli produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
-Pengguna | Mencari produk | Bisa menncari produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
+Pengguna | Mencari produk | Bisa mencari produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
 Pengguna | Melihat produk | Bisa melihat gambar dan harga produk | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
