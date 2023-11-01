@@ -21,6 +21,8 @@ beli yang disajikan dalam bentuk website.
 - Seorang yang hobi otomotif seperti motocross
 - Seorang yang suka memodifikasi motornya
 - Seorang yang ingin belanja dengan mudah
+  Inspirasi Design
+  
 
 ## 2. User Story
 
