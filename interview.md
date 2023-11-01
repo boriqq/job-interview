@@ -34,11 +34,21 @@ Pengguna | Membeli produk | Bisa membeli produk yang diinginkan dengan mudah | �
 Pengguna | Mencari produk | Bisa mencari produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
 Pengguna | Melihat produk | Bisa melihat gambar dan harga produk | ⭐⭐⭐⭐⭐
 Pengguna | Menyaring produk | Bisa mencari produk sesuai kriteria seperti harga nama dll  | ⭐⭐⭐⭐
-Pengguna | Melihat detail produk | Bisa melihat detai produk | ⭐⭐⭐⭐⭐
+Pengguna | Melihat detail produk | Bisa melihat detail produk | ⭐⭐⭐⭐⭐
 Pengguna | Membuat akun | Bisa membuat akun pengguna | ⭐⭐⭐⭐⭐
 Pengguna | Memesan produk | Bisa memesan produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
 Pengguna | Memasukan produk | Bisa menambahkan produk yang diinginkan | ⭐⭐⭐⭐⭐
 Pengguna | Melacak produk | Bisa melacak produk yang dipesan | ⭐⭐⭐⭐⭐
+Pengguna | Memilih produk | Bisa memilih dan menambahkan produk yang akan dibeli | ⭐⭐⭐⭐
+Pengguna | Membatalkan pesanan | Bisa membatalkan pesanan jika tidak sesuai | ⭐⭐⭐⭐
+Pengguna | Memilih transaksi | Bisa memilih ingin membayar pakai apa | ⭐⭐⭐⭐
+Pengguna | Memberikan ulasan | Bisa menuliskan ulasan tentang produk yang dibeli | ⭐⭐⭐⭐
+Pengguna | Memberikan saran & kritik | Bisa memberi saran dan kritik | ⭐⭐⭐⭐
+Pengguna | Mengembalikan pesanan | Bisa mengembalikan pesanan jika tidak sesuai | ⭐⭐⭐⭐
+Pengguna | Menanyakan produk | Bisa bertanya tentang produk yang diinginkan | ⭐⭐⭐⭐
+Pengguna | Melihat ulasan | Bisa melihat ulasan produk dari pembeli lain | ⭐⭐⭐⭐
+Pengguna | Mengkomplain produk | Bisa mengkomplain produk jika tidak sesuai | ⭐⭐⭐⭐
+
 ## 3. Struktur Data
 
 ```mermaid
