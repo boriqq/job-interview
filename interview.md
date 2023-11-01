@@ -21,7 +21,9 @@ beli yang disajikan dalam bentuk website.
 - Seorang yang hobi otomotif seperti motocross
 - Seorang yang suka memodifikasi motornya
 - Seorang yang ingin belanja dengan mudah
-  Inspirasi Design
+
+Inspirasi Design :
+  ![Contoh](https://github.com/boriqq/job-interview/blob/main/Screenshot%202023-11-01%20180824.png?raw=true)
   
 
 ## 2. User Story
