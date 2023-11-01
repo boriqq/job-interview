@@ -33,6 +33,12 @@ Sebagai | Bisa melakukan | Sehingga | Prioritas
 Pengguna | Membeli produk | Bisa membeli produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
 Pengguna | Mencari produk | Bisa mencari produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
 Pengguna | Melihat produk | Bisa melihat gambar dan harga produk | ⭐⭐⭐⭐⭐
+Pengguna | Menyaring produk | Bisa mencari produk sesuai kriteria seperti harga nama dll  | ⭐⭐⭐⭐
+Pengguna | Melihat detail produk | Bisa melihat detai produk | ⭐⭐⭐⭐⭐
+Pengguna | Membuat akun | Bisa membuat akun pengguna | ⭐⭐⭐⭐⭐
+Pengguna | Memesan produk | Bisa memesan produk yang diinginkan dengan mudah | ⭐⭐⭐⭐⭐
+Pengguna | Memasukan produk | Bisa menambahkan produk yang diinginkan | ⭐⭐⭐⭐⭐
+Pengguna | Melacak produk | Bisa melacak produk yang dipesan | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 ```mermaid
