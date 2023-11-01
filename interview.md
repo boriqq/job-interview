@@ -48,6 +48,32 @@ Pengguna | Mengembalikan pesanan | Bisa mengembalikan pesanan jika tidak sesuai 
 Pengguna | Menanyakan produk | Bisa bertanya tentang produk yang diinginkan | ⭐⭐⭐⭐
 Pengguna | Melihat ulasan | Bisa melihat ulasan produk dari pembeli lain | ⭐⭐⭐⭐
 Pengguna | Mengkomplain produk | Bisa mengkomplain produk jika tidak sesuai | ⭐⭐⭐⭐
+Admin | Menampilkan produk | Bisa menampilkan produk yang akan dijual | ⭐⭐⭐⭐⭐
+Admin | Menampilkan harga produk | Bisa menampilkan harga produk yang akan dijual | ⭐⭐⭐⭐
+Admin | Menampilkan nama produk | Bisa menampilkan nama produk yang akan dijual | ⭐⭐⭐⭐⭐
+Admin | Menampilkan deskripsi produk | Bisa menampilkan deskripsi produk yang akan dijual | ⭐⭐⭐⭐
+Admin | Menampilkan size produk | Bisa menampilkan size produk yang akan dijual | ⭐⭐⭐⭐⭐
+Admin | Menampilkan stok produk | Bisa menampilkan stok produk yang akan dijual | ⭐⭐⭐⭐
+Admin | Menampilkan warna produk | Bisa menampilkan pilihan warna produk yang akan dijual | ⭐⭐⭐⭐⭐
+Admin | Menampilkan kategori produk | Bisa menampilkan kategori produk yang akan dijual | ⭐⭐⭐⭐
+Admin | Menampilkan deskripsi produk | Bisa menampilkan deskripsi produk yang akan dijual | ⭐⭐⭐⭐⭐
+Admin | Menampilkan jenis produk | Bisa menampilkan jenis produk yang akan dijual | ⭐⭐⭐⭐
+Admin | Menampilkan sistem pembayaran | Bisa menampilkan sistem pembayaran yang bisa dipakai | ⭐⭐⭐⭐⭐
+Admin | Menampilkan status produk | Bisa menampilkan status ready atau tidaknya produk yang akan dijual | ⭐⭐⭐⭐
+Admin | Menampilkan jasa pengiriman | Bisa menampilkan jasa pengiriman yang dipakai | ⭐⭐⭐⭐
+Admin | Menampilkan status pengiriman | Bisa menampilkan status pengiriman produk yang dibeli | ⭐⭐⭐⭐
+Admin | Menampilkan ulasan pembeli | Bisa menampilkan ulasan yang dikirim oleh pembeli | ⭐⭐⭐⭐
+Admin | Menampilkan jumlah barang yang dibeli | Bisa menampilkan jumlah barang yang sudah dibeli | ⭐⭐⭐⭐
+Admin | Menampilkan pesan pembeli | Bisa menampilkan pesan yang dikirim pembeli | ⭐⭐⭐⭐
+Admin | Menampilkan rute pengiriman | Bisa menampilkan rute pengiriman antara barang dan tujuan pengiriman | ⭐⭐⭐⭐
+Admin | Menampilkan alamat toko SMX | Bisa menampilkan alamat toko SeventyOne MX | ⭐⭐⭐⭐
+Admin | Menampilkan akun pengguna | Bisa menampilkan akun pengguna atau pembeli | ⭐⭐⭐⭐
+Admin | Menampilkan menampilkan produk | Bisa menampilkan produk yang dicari | ⭐⭐⭐⭐
+Admin | Menampilkan alamat pembeli | Bisa menampilkan alamat pengguna atau pembeli saat membeli barang | ⭐⭐⭐⭐
+Admin | Menampilkan kontak toko | Bisa menampilkan nomor telepon toko | ⭐⭐⭐⭐
+Admin | Menampilkan social media | Bisa menampilkan akun social media toko | ⭐⭐⭐⭐
+Admin | Menampilkan tentang SMX | Bisa menampilkan deskripsi tentang SeventyOne MX | ⭐⭐⭐⭐
+Admin | Menampilkan layanan pelanggan | Bisa menampilkan layanan pelanggan | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
